@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace ConsoleApp {
-    class Program {
+    public class Program {
         static void Main(string[] args) {
             List<Shape> Shapes = new List<Shape>();
 
